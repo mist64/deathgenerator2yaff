@@ -1,0 +1,24 @@
+# YAFF font file
+# Converted from win95inst.json and win95inst-font.png
+# Font type: monochrome_solid
+
+yaff: 1.0
+name: Win95Inst Indent
+family: win95inst-indent
+encoding: unicode
+
+# Global metrics
+pixel-size: 1
+
+# Glyph definitions
+
+# Character:  
+u+0020:
+    .........@@@@..............@@@..
+    ..........@@...............@@@..
+    ................................
+    ................................
+    ................................
+    ................................
+    ................................
+    ................................

@@ -1,0 +1,26 @@
+# YAFF font file
+# Converted from win95inst.json and win95inst-font.png
+# Font type: monochrome_solid
+
+yaff: 1.0
+name: Win95Inst Bulletspacer
+family: win95inst-bulletspacer
+encoding: unicode
+
+# Global metrics
+pixel-size: 11
+
+# Glyph definitions
+
+# Character:  
+u+0020:
+    .........@@@@..............@@@..
+    ..........@@...............@@@..
+    ................................
+    ................................
+    ................................
+    ................................
+    ................................
+    ................................
+
+    shift-up: 3

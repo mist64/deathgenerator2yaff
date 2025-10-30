@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Test/temporary files
+golden.txt
+golden_new.txt
+font_sizes.txt
+yaff_test/
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~

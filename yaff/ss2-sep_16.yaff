@@ -1,0 +1,41 @@
+# YAFF font file
+# Converted from ss2.json and ss2-font.png
+# Font type: unknown
+
+yaff: 1.0
+name: Ss2 Sep
+family: ss2-sep
+encoding: unicode
+
+# Global metrics
+pixel-size: 16
+
+# Glyph definitions
+
+# Character:  
+u+0020:
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
