@@ -39,6 +39,7 @@ FONT_TYPE_OVERRIDES = {
     'swatkats': 'chromatic_outlined',  # Bright blue text with dark outline - remove dark outline
     'smurfs3': 'antialiased',  # White/gray anti-aliased text with black outline - keep all pixels
     'sth2i': 'antialiased',  # White outline with black fill - keep both
+    'wea': 'chromatic_bright',  # INVERTED: Bright text on dark background
 }
 
 # Special character mappings for Windows codepage to Unicode
