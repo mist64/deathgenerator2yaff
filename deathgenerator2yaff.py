@@ -19,7 +19,7 @@ from collections import OrderedDict
 FONT_TYPE_OVERRIDES = {
     # Fonts with detection issues - override to correct type
     # Note: 'antialiased' and 'unknown' keep all pixels without shadow/outline removal
-    'sttngafu': 'unknown',  # Dark text on light background, confused by character portraits
+    'sttngafu': 'chromatic_shadowed_bright',  # Light text on dark background, treat bright pixels as ink
     'mw': 'antialiased',  # Red text with black shadow - keep all pixels
     'nesticle': 'shadowed',  # Gray text with black shadow - remove shadow
     'ft2': 'chromatic_shadowed',  # White text with dark gray shadow - remove dark pixels
